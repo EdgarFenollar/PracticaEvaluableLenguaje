@@ -1,0 +1,48 @@
+body{
+    background: linear-gradient(45deg, rgb(166, 255, 0), rgb(42, 232, 184));
+    padding-bottom: 100px;
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-attachment: fixed;
+}
+
+h2{
+    font-size: 50px;
+    text-align: center;
+    color: white;
+}
+
+h3{
+    font-size: 30px;
+}
+
+.primerJugador{
+    color: white;
+    width: 49%;
+    text-align: center;
+    float: left;
+}
+
+.segundoJugador{
+    color: white;
+    width: 49%;
+    text-align: center;
+    float: right;
+}
+
+.juegoDados{
+    align-items: center;
+}
+
+#dado1.img{
+    width: 5px;
+    height: 5px;
+}
+
+#p1{
+    font-size: 25px;
+}
+
+.res{
+    width: 100%;
+}

@@ -1,0 +1,14 @@
+<select id="player1">
+            <option value="1">1 dado</option>
+            <option value="2">2 dados</option>
+            <option value="3">3 dados</option>
+            <option value="4">4 dados</option>
+            <option value="5">5 dados</option>
+            <option value="6">6 dados</option>
+            <option value="7">7 dados</option>
+            <option value="8">8 dados</option>
+            <option value="9">9 dados</option>
+            <option value="10">10 dados</option>
+            <option value="11">11 dados</option>
+            <option value="12">12 dados</option>
+        </select>
